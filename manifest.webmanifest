@@ -1,0 +1,9 @@
+{
+  "name": "TROT LEGENDS",
+  "short_name": "TROT LEGENDS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e7",
+  "theme_color": "#172b25",
+  "lang": "fr"
+}

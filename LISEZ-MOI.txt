@@ -1,0 +1,11 @@
+TROT LEGENDS — Version 0.4.1 avec animations 2D
+
+Cette version reprend l'application multijoueur v0.4 et ajoute :
+- chevaux illustrés et animés dans l'écurie ;
+- piste de trot animée dans chaque course ;
+- sulky et driver dessinés en 2D ;
+- animations de foulées, roues, nuages et déplacement des concurrents.
+
+Déploiement : remplacer les fichiers du site Cloudflare Pages par ceux de cette archive.
+Ne pas exécuter de nouveau SQL : cette mise à jour ne modifie pas la base Supabase.
+Conserver config.js avec la configuration Supabase déjà utilisée si elle diffère.
